@@ -3,7 +3,7 @@
 
   
 - 👀 I’m interested in Data Analyst, Data Science, Real-world data projects, Visualization
-- 🌱 Take a look at my Personal Website and portfolio:
+- 🌱 Take a look at my Personal Website and portfolio: https://peumsak07.wordpress.com/
 - 📫 Email me at: peumsak07@gmail.com
 - ⚡ Fun fact: The most life-changing book for me is *HOW TO BE BETTER AT (ALMOST) EVERYTHING (PAT FLYNN)*
 
